@@ -8,7 +8,7 @@ stage('Another stage!') {
 
 stage('Proceed?') {
     milestone()
-    input message: "Proceed?"
+    input message: "Proceed??"
     milestone()
 }
 
